@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
+  "keywords": [
+    "react",
+    "components",
+    "website",
+    "template"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaelmorrisg/component-magic"
+    "url": "michaelmorrisg/component-magic"
   },
   "peerDependencies": {
     "react": "^16.9.0"
@@ -15,7 +21,7 @@
     "build": "webpack"
   },
   "author": "mgmorris",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.9.0",
     "webpack": "^4.39.2"
